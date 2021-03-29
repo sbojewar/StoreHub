@@ -1,1 +1,1 @@
-This is a simple implementation of a store app which containes different products
+This is a simple implementation of a store app which contains different products
