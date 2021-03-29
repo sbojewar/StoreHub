@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Store</string>
+    <string name="txtSplashTitle">Store Hub</string>
+    <string name="Welcome">Welcome to Store Hub</string>
+    <string name="intro">Welcome to Store Hub this application shows the inventory of storehub which contains various in store items categorized by product types</string>
+    <string name="btnsplithint">Tap to see the Products</string>
+    <string name="btnsplittxt">Show Products</string>
+    <string name="btnopen">Open Link</string>
+    <string name="beers">Beers</string>
+    <string name="snacks">Snacks</string>
+    <string name="milk">Milk</string>
+    <string name="candy">Candy</string>
+    <string name="soda">Soda</string>
+    <string name="beerslink">https://www.delish.com/entertaining/g32582373/best-beers/</string>
+    <string name="candylink">https://www.amazon.com/candy/s?k=candy</string>
+    <string name="snackslink">https://www.amazon.com/snacks/s?k=snacks</string>
+    <string name="sodalink">https://www.amazon.com/soda/s?k=soda</string>
+    <string name="milklink">https://www.amazon.com/milk/s?k=milk</string>
+    <string name="resimage">resimage</string>
+
+    <string name="pro">products</string>
+
+    <string name="bud">$5</string>
+    <string name="budw">$2</string>
+    <string name="miller">$3</string>
+    <string name="her">$5</string>
+    <string name="gummy">$3</string>
+    <string name="sni">$4</string>
+    <string name="lays">$1</string>
+    <string name="pri">$3</string>
+    <string name="cheeze">$1</string>
+    <string name="fanta">$1</string>
+    <string name="redbull">$4</string>
+    <string name="pepsi">$1.5</string>
+    <string name="whole">$4</string>
+    <string name="fat">$3</string>
+    <string name="chocolate">$5</string>
+
+    <string-array name="products">
+        <item>Beers</item>
+        <item>Candy</item>
+        <item>Snacks</item>
+        <item>Soda</item>
+        <item>Milk</item>
+    </string-array>
+
+    <string-array name="Beers">
+        <item>Bud Lite</item>
+        <item>Budwiser</item>
+        <item>miller lite</item>
+    </string-array>
+
+    <string-array name="candy">
+        <item>Hersheys</item>
+        <item>gummy bears</item>
+        <item>snickers</item>
+    </string-array>
+
+    <string-array name="snacks">
+        <item>Lays</item>
+        <item>Pringles</item>
+        <item>Cheez It</item>
+    </string-array>
+
+    <string-array name="soda">
+        <item>Fanta</item>
+        <item>Redbull</item>
+        <item>Pepsi</item>
+    </string-array>
+
+    <string-array name="Milk">
+        <item>Whole Milk</item>
+        <item>Fat Free Milk</item>
+        <item>Chocolate Milk</item>
+    </string-array>
+
+</resources>
